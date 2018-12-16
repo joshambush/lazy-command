@@ -1,0 +1,14 @@
+Uasge:
+
+Type number needed :)
+
+ 1) Ipconfig (View local ip(s))
+ 2) Tasklist (View Task)
+ 3) Netstat  (View connections)
+ 4) start (Open Prompt)
+ 5) Open Website
+ 6) read file
+ 7) write file
+ 8) Deactivate internetn (This device only)
+ 9) Activate internet (This Device only)
+ 10) Hash Password
